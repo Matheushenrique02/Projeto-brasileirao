@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+
+body{
+    font-family: "Roboto", sans-serif;
+    background-image: url('https://media.torcedores.com/wp-content/uploads/2023/11/brasileirao-serie-a-confusao-pode-render-punicao-clubes-png.webp');
+    background-size: cover;
+    background-position: right right;
+    background-repeat: no repeat;
+    background-attachment: fixed;
+}
+
+h1{
+    background-color: rgb(1, 82, 1);
+    width: 600px;
+    padding: 10px;
+    color: whitesmoke;
+    border-radius: 5px;
+    box-shadow: 2px 1px 0px darkgreen;
+    text-shadow: 2px 2px  rgb(0, 0, 0);
+}
+
+table{
+    border-collapse: collapse;
+    width: 1100px;
+    background-color: rgba(255, 255, 255, 0.856);
+    box-shadow: 1px 1px 1px 1px black;
+}
+
+td,th{
+    border: 1px solid black;
+    padding: 13px;
+}
+
+th{
+    background-color: rgba(1, 78, 1, 0.829);
+    color: whitesmoke;
+}
+
+
+.g4{
+    background-color: rgba(0, 128, 0, 0.541);
+    font-weight: bold;
+}
+
+.g5{
+    background-color:rgba(255, 166, 0, 0.651);
+    font-weight: bold;
+}
+
+
+.sula{
+    background-color: rgba(0, 0, 255, 0.322);
+    font-weight: bold;
+}
+
+.normal{
+    font-weight: bold;
+}
+
+
+.z4{
+    background-color: rgba(255, 0, 0, 0.5);
+    font-weight: bold;
+}
+
+tfoot> tr > th{
+    color: black;
+}
+
+.center{
+    text-align: center;
+}
+
+
+
+
+#leg{
+    background-color: whitesmoke;
+    color: black;
+}
