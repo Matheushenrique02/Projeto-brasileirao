@@ -11,6 +11,10 @@ body{
     background-attachment: fixed;
 }
 
+div{
+    overflow-x: auto;
+}
+
 
 h1{
     background-color: rgb(1, 82, 1);
